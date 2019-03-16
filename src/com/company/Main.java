@@ -15,9 +15,9 @@ public class Main {
         System.out.println("Introduzca el radio del circulo(cm)");
         int r = sc.nextInt();
 
-        double resultado = Pi * Math.pow(r, 2);
+        double result = Pi * Math.pow(r, 2);
 
-        System.out.println("El area es: "+resultado);
+        System.out.println("El area es: "+result);
 
     }
 }
